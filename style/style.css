@@ -62,3 +62,80 @@ margin-bottom: 10px;
     padding: 14px 21px;
     border: none;
 }
+
+/* card box */
+#card-box{
+    width: 884px;
+    height: 583px;
+    margin: 0 auto;
+    padding: 111px 200px 125px 200px;
+    font-family: Work Sans;
+    color: #101010;
+}
+.card-index{
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.card-div-title{
+    width: 462px;
+    margin: 0 auto;
+}
+.card-title{
+    font-size:32px ;
+    font-weight:bold ;
+    line-height: 42px;
+    letter-spacing: 0;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+/* card-1 */
+.card-container{
+    width: 284px ;
+    height: 349px;
+}
+.img-pizza{
+    width: 284px;
+    height:189px ;
+    border-radius:11px ;
+    margin-bottom: 21px;
+}
+.img-btn-div{
+    text-align: center;
+}
+.img-btn{
+    background-color: rgba(82, 195, 3, 0.15);
+    width:125px ;
+    height:37px ;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 20px ;
+    text-align: center;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 16px;
+}
+
+.img-dis{
+    font-size:26px ;
+    font-weight: 600;
+   text-align: center;
+   margin-bottom: 16px;
+}
+.img-description{
+    width: 284px;
+    font-size: 12px;
+    font-weight:400 ;
+    line-height: 18px;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.card-item{
+    display: flex;
+    gap: 16px;
+}
